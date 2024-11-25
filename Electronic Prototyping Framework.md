@@ -5,7 +5,7 @@ Electronic Prototyping Framework**
 Brainstorm I/O and Schematics based on the input from design;  
 
 
-- **Schematics 1**
+- **Schematics 1**  
 MCU, Basic I/O;  
 Start with a basic framework to move forward;  
 Figure out basic requirements based on common sense, experience, and brief research;  
