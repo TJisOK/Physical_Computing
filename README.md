@@ -1,3 +1,3 @@
-# TJ's Physical_Computing
+# Physical_Computing
  
-Electronic Components Testing Lib
+TJ's Electronic Components Testing Lib  
